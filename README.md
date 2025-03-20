@@ -22,5 +22,7 @@ I'm a **Data Science** student currently completing my first degree and soon sta
 
 ## 📫 Let's Connect  
 Feel free to reach out!
+
 📧 Email: sagie2701@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/sagie-dekel
