@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sagie 
 
-<!--
-**sagie-dekel/sagie-dekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me  
+I'm a **Data Science** student currently completing my first degree and soon starting my **Master's** at the Technion. My research interests lie at the intersection of **Deep Reinforcement Learning (Deep RL)** and **Large Language Models (LLMs)**, Leveraging both to create AI agents. I am passionate about exploring cutting-edge AI technologies, implementing novel research ideas, and applying them to real-world challenges.  
 
-Here are some ideas to get you started:
+## 🔬 Technical Interests and Skills
+- 🧠 **Deep Reinforcement Learning (Deep RL)** & **Reinforcement Learning (RL)**  
+- 🤖 **Large Language Models (LLMs)**  
+- 🎨 **Computer Vision**  
+- 🎙 **Audio Processing with LLMs**  
+- 📊 **Information Retrieval (IR)**
+- 🧠 **Multi-Armed Bandits (MAB)**  
+- 📉 **Audio Quantization**
+- 🚀 **Distributed training**
+- 🏋️ **Deep Learning** & **Neural Network Architectures**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages  
+- 🐍 **Python**  
+- ☕ **Java**  
+- 🔣 **C**  
+- 🛢 **SQL**  
+
+## 📫 Let's Connect  
+Feel free to reach out!
+📧 Email: sagie2701@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sagie-dekel
